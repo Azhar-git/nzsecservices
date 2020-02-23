@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/nzsecservices/static/css/main.3ba6e329.chunk.css",
+    "main.js": "/nzsecservices/static/js/main.a442511d.chunk.js",
+    "main.js.map": "/nzsecservices/static/js/main.a442511d.chunk.js.map",
+    "runtime-main.js": "/nzsecservices/static/js/runtime-main.7dc1e33e.js",
+    "runtime-main.js.map": "/nzsecservices/static/js/runtime-main.7dc1e33e.js.map",
+    "static/css/2.844c13d2.chunk.css": "/nzsecservices/static/css/2.844c13d2.chunk.css",
+    "static/js/2.874f82b8.chunk.js": "/nzsecservices/static/js/2.874f82b8.chunk.js",
+    "static/js/2.874f82b8.chunk.js.map": "/nzsecservices/static/js/2.874f82b8.chunk.js.map",
+    "index.html": "/nzsecservices/index.html",
+    "precache-manifest.dca5417493aeffccd146a0ba2fddd65f.js": "/nzsecservices/precache-manifest.dca5417493aeffccd146a0ba2fddd65f.js",
+    "service-worker.js": "/nzsecservices/service-worker.js",
+    "static/css/2.844c13d2.chunk.css.map": "/nzsecservices/static/css/2.844c13d2.chunk.css.map",
+    "static/css/main.3ba6e329.chunk.css.map": "/nzsecservices/static/css/main.3ba6e329.chunk.css.map",
+    "static/js/2.874f82b8.chunk.js.LICENSE.txt": "/nzsecservices/static/js/2.874f82b8.chunk.js.LICENSE.txt",
+    "static/media/Industry.jpg": "/nzsecservices/static/media/Industry.d1dba250.jpg",
+    "static/media/Logo2.jpeg": "/nzsecservices/static/media/Logo2.be00ea6a.jpeg",
+    "static/media/Service.png": "/nzsecservices/static/media/Service.5342d886.png",
+    "static/media/building.jpg": "/nzsecservices/static/media/building.7b539128.jpg",
+    "static/media/cctv.jpg": "/nzsecservices/static/media/cctv.8f9d458f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc1e33e.js",
+    "static/css/2.844c13d2.chunk.css",
+    "static/js/2.874f82b8.chunk.js",
+    "static/css/main.3ba6e329.chunk.css",
+    "static/js/main.a442511d.chunk.js"
+  ]
+}
