@@ -1,0 +1,40 @@
+.slide-container {
+  width: 100%;
+  margin: auto;
+  /* position: end;  */
+}
+
+/* h3 {
+  text-align: center; }
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  background-size: cover;
+  height: 300px;
+} */
+
+/* .each-slide span {
+  padding: 5px;
+  font-size: 20px;
+  background: #efefef;
+  text-align: center;
+} */
+
+.each-fade {
+  display: flex;
+}
+.image-container {
+   flex: 1;
+}
+.each-fade .image-container {
+  width: 100%;
+  overflow: hidden;
+ 
+}
+
+.each-fade .image-container img {
+  width: 100%;
+}
+
