@@ -55,7 +55,7 @@ class App extends React.Component {
             </Tilt>
           </div>
 
-          <div className="inlines">Home</div>
+          <div className="inlines"><a href="https://azhar-git.github.io/nzsecservices">Home</a></div>
           <div className="inlines">Services</div>
           <div className="inlines">Announcements</div>
           <div className="push">Contacts</div>
