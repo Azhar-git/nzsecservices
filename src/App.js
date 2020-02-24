@@ -8,18 +8,33 @@ import Slideshow from './slides';
 import Tilt from 'react-tilt';
 
 
+// const particlesOptions = {
+//   particles: {
+//     line_linked: {
+//       shadow: {
+//         enable: true,
+//         color: "#3CA9D1",
+//         blur: 5,
+        
+//       }
+//     }
+//   }
+// }
+
+
 const particlesOptions = {
   particles: {
-    line_linked: {
-      shadow: {
-        enable: true,
-        color: "#3CA9D1",
-        blur: 5,
-        
+    number: {
+      value:100,
+      density: {
+        enable: true
       }
     }
+    
   }
 }
+
+
 
 class App extends React.Component {
   render() {
@@ -48,6 +63,7 @@ class App extends React.Component {
 
         <article id="mainArticle">
         <h1 className="calisto navy" style={{textAlign: "center", textTransform: "uppercase"}}>NZ Security Services</h1>
+        <p className="f4 athelas" style={{textAlign: "center", textTransform: "uppercase"}}>Security and Allied Services</p>
           <div><Slideshow /></div>
           <p>We are your one-stop-shop solution for all your security needs.
            Our aim is to create a protected environment for you, wherever you are.
